@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/phonegap-websocket?branch=master)](https://bettercodehub.com/)
+
 ## Websocket PhoneGap plugin for Android
 
 Phonegap plugin which adds support for websockets under Android.
